@@ -3,7 +3,7 @@ Apresentação do Projeto:
 
 Olá, meu nome é João Henrique e irei apresentar o meu projeto para o processo seletivo da DSIN. O intuito do projeto era criar um sistema para um salão de beleza, onde os clientes poderiam ter um cadastro nesse sistema, criar e gerenciar seus agendamentos. Além disso, o intuito seria também facilitar a gestão do administrador do salão, pois ele teria um melhor acesso aos seus serviços, e agendamentos, podendo edita-los ou exclui-los. Para a criação do sistema utilizei a linguagem de programação PHP e banco de dados MySQL.
 
-A primeira tela do sistema é a tela de Login:
+A primeira tela do sistema é a tela de Login:                                                       
 ![login](https://github.com/joao591/DSIN/assets/61203115/49828ee2-ce66-4131-b159-2012b8731767)
 
 Nela o usuário consegue acessar com o seu e-mail e senha cadastrados. Para verificar se o usuário se encontrava cadastrado em nossa base de dados foi feito um SELECT na nossa tabela de usuários 
