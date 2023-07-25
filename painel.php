@@ -22,11 +22,7 @@ include('protecao.php');
     <p>
         Bem vindo ao Painel, <?php echo $_SESSION['nome']; ?>!
     </p>
-    <div align="right">
-    <p aling="right">
-        <button style="background-color: red;"><a style="color: white;" href="logout.php">Sair</a></button>
-    </p>
-    </div>
+    
     <p>
 
         <?php
@@ -78,5 +74,11 @@ include('protecao.php');
 
     <button style="background-color: blue"><a style="color: white;" href="agendamento.php"><p>Criar novo Agendamento</p></a></button>
     
+    <div align="right">
+    <p aling="right">
+        <button style="background-color: red;"><a style="color: white;" href="logout.php">Sair</a></button>
+    </p>
+    </div>
+
 </body>
 </html>
